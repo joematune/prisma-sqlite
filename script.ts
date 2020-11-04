@@ -1,4 +1,4 @@
-https://www.prisma.io/docs/getting-started/quickstart-typescript
+// https://www.prisma.io/docs/getting-started/quickstart-typescript
 
 import { PrismaClient } from '@prisma/client'
 
